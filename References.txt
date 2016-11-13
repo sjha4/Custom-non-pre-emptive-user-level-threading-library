@@ -1,0 +1,4 @@
+Thread context switching: Linux Man pages, Stackoverflow
+Semaphores: Class, http://greenteapress.com/thinkos/thinkos.pdf, StackOverflow, Google in general.
+http://www.ibm.com/support/knowledgecenter/SSLTBW_2.1.0/com.ibm.zos.v2r1.bpxbd00/keyword.htm for documentation and other example programs.
+Stackoverflow for general doubts in queues.
